@@ -1,2 +1,0 @@
-# Parveen.Kumar
-portfolio website
