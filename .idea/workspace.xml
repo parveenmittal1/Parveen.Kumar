@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5292f709-793d-436b-9588-6b951a001735" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.deploy/DOCUMENTATION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/controllers/PostController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/controllers/ProjectController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/controllers/ServiceController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/controllers/SubscriberController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/models/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/models/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/models/Service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/models/Subscriber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/package.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/pages/blocks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/pages/global.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/pages/home.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/css/inter-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/css/slick-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/css/slick.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-BlackItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-BlackItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-ExtraBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-ExtraBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-ExtraBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-SemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/Inter-SemiBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/images/turbo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/compiled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/feather.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/public/js/subscribers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/routes/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/routes/vertex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/tmp/posts.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/tmp/projects.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/tmp/services.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/turbo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/blocks.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/blog.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/home.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/contact.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/faq.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/features.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/gallery.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/hero.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/posts.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/pricing.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/service.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/blocks/testimonial.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/footer.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/head.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/header.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/header2.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/partials/scripts.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/post.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.deploy/views/project.mustache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1cMYZVaNjhxgK6SsBzhHRc1VYFD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5292f709-793d-436b-9588-6b951a001735" name="Default Changelist" comment="" />
+      <created>1590339984209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590339984209</updated>
+      <workItem from="1590339985882" duration="2755000" />
+      <workItem from="1590342753830" duration="661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
